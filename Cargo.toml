@@ -1,0 +1,8 @@
+[package]
+name = "haraka"
+version = "0.1.0"
+authors = ["Thibault Guittet <guittet.thibault[at]gmail.com>"]
+build = "build.rs"
+
+[dependencies]
+libc = "0.2.0"
