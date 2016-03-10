@@ -1,4 +1,4 @@
-Simple wrapper in Rust (to try out FFI really) for the [Haraka](https://github.com/kste/haraka) hash function.
+Simple wrapper in Rust (to try out FFI really) for the [Haraka](https://github.com/kste/haraka) compression function.
 
 Portability of this is not great as I didn't use [gcc-rs](https://github.com/alexcrichton/gcc-rs) to limit dependencies.
 
